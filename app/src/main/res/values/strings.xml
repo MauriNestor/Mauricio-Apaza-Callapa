@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BNB_prueba_tecnica_Mauricio_Apaza</string>
+
+
+    <string name="siguiente">Siguiente</string>
+    <string name="continuar">Continuar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="atras">Atrás</string>
+    <string name="paso_formato">PASO %1$d / %2$d</string>
+
+
+    <string name="informacion_titulo">Información</string>
+    <string name="informacion_ingresa_datos">Ingresa tus datos</string>
+    <string name="informacion_subtitulo">¡Únete a nuestra app hoy!\nCompleta los siguientes datos para comenzar a disfrutar de tu Bille.</string>
+    <string name="label_celular">Número de celular:</string>
+    <string name="label_carnet">Número de carnet:</string>
+    <string name="label_complemento">Complemento (opcional):</string>
+    <string name="hint_celular">Ingresar el celular</string>
+    <string name="hint_carnet">Ingresar el carnet</string>
+    <string name="hint_complemento">Ej. 1D</string>
+    <string name="tiene_complemento">¿Tiene complemento?</string>
+
+
+    <string name="error_celular_vacio">Ingresa tu número de celular</string>
+    <string name="error_celular_longitud">El celular debe tener 8 dígitos</string>
+    <string name="error_celular_formato">El celular solo debe contener números</string>
+    <string name="error_carnet_vacio">Ingresa tu número de carnet</string>
+    <string name="error_carnet_formato">El carnet solo debe contener números (máx. 10)</string>
+    <string name="error_complemento_vacio">Ingresa el complemento</string>
+    <string name="error_complemento_longitud">El complemento debe tener 2 caracteres</string>
+    <string name="error_complemento_formato">Solo letras y números, sin caracteres especiales</string>
+    <string name="error_servicio">No pudimos procesar tu solicitud. Intenta nuevamente.</string>
+
+
+    <string name="ubicacion_titulo">Activa tu ubicación</string>
+    <string name="ubicacion_descripcion">Para continuar con la creación de tu Bille, es necesario que actives la ubicación en tu dispositivo.</string>
+    <string name="ubicacion_denegada_titulo">Permiso de ubicación denegado</string>
+    <string name="ubicacion_denegada_descripcion">Denegaste el permiso de ubicación de forma permanente. Para continuar, actívalo desde los ajustes de la aplicación.</string>
+    <string name="ir_a_ajustes">Ir a ajustes</string>
+
+
+    <string name="autenticacion_titulo">Autenticación</string>
+    <string name="autenticacion_recomendacion">Antes de comenzar con la prueba de autenticación, te recomendamos:</string>
+    <string name="consejo_iluminacion">Sitúate en un lugar con buena iluminación.</string>
+    <string name="consejo_accesorios">Retira lentes, gorras u otros accesorios.</string>
+    <string name="consejo_encuadre">Mantén tu rostro dentro del marco.</string>
+    <string name="consejo_carnet">Ten a mano tu carnet de identidad.</string>
+    <string name="autenticacion_fin">Continuará en el paso 3</string>
+    <string name="escuchar_instrucciones">Escuchar instrucciones</string>
+    <string name="ilustracion">Ilustración</string>
+</resources>
