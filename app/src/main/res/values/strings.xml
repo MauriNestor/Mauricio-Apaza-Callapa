@@ -25,7 +25,8 @@
     <string name="error_celular_longitud">El celular debe tener 8 dígitos</string>
     <string name="error_celular_formato">El celular solo debe contener números</string>
     <string name="error_carnet_vacio">Ingresa tu número de carnet</string>
-    <string name="error_carnet_formato">El carnet solo debe contener números (máx. 10)</string>
+    <string name="error_carnet_formato">El carnet solo debe contener números</string>
+    <string name="error_carnet_longitud">El carnet debe tener como máximo 10 dígitos</string>
     <string name="error_complemento_vacio">Ingresa el complemento</string>
     <string name="error_complemento_longitud">El complemento debe tener 2 caracteres</string>
     <string name="error_complemento_formato">Solo letras y números, sin caracteres especiales</string>
@@ -46,6 +47,7 @@
     <string name="consejo_encuadre">Mantén tu rostro dentro del marco.</string>
     <string name="consejo_carnet">Ten a mano tu carnet de identidad.</string>
     <string name="autenticacion_fin">Continuará en el paso 3</string>
+    <string name="consejo_posicion">Consejo %1$d de %2$d</string>
     <string name="escuchar_instrucciones">Escuchar instrucciones</string>
     <string name="ilustracion">Ilustración</string>
 </resources>
